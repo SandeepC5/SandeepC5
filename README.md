@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I am Sandeep
 
-<!--
-**SandeepC5/SandeepC5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Senior Data Engineer specializing in AWS and ETL with 3 years of experience in building scalable data solutions. Passionate about optimizing data pipelines and transforming complex data into valuable insights.
 
-Here are some ideas to get you started:
+### 🛠️ Skills
+- **Cloud**: AWS (Lambda, Glue, S3, DynamoDB, Athena)
+- **Data Engineering**: ETL, Data Warehousing, Big Data Analytics
+- **Languages**: Python, SQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📂 Featured Projects
+- **Snowflake Decommissioning**: Streamlined legacy data removal and optimized data flow.
+- **Database Migration**: Migrated DocumentDB to MongoDB Atlas for improved performance.
+- **Alteryx to Databricks**: Enhanced workflow efficiency by converting to PySpark.
+
+### 📜 Certifications
+- AWS Certified Data Analytics
+- Google Cloud Professional Data Engineer
+
+### 📫 Connect with Me
+[LinkedIn](https://www.linkedin.com/in/sandeepchoodamani) | [Email](mailto:Sandeep.choodamani@brillio.com)
+
+---
+
+🌐 **[Visit my portfolio](#)** for more!
