@@ -26,4 +26,4 @@ Senior Data Engineer specializing in AWS and ETL with 3 years of experience in b
 
 ---
 
-🌐 **[Visit my portfolio](#)** for more!
+🌐 **[Visit my portfolio](https://github.com/SandeepC5/portfolio/blob/main/README.md)** for more!
